@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm İlker Balcılar</h1>
 <h3 align="center">I'm a Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubstaaa&label=Profile%20views&color=0e75b6&style=flat" alt="jubstaaa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubstaaa" alt="jubstaaa" /></a> </p>
+
 - 🌱 I’m currently learning React.js, C# and Unity.
 
 - 💻 My group website [winniesoft.com](https://winniesoft.com)
@@ -150,10 +154,9 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jubstaaa&show_icons=true&locale=en&layout=compact"
-    alt="jubstaaa"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubstaaa&show_icons=true&locale=en&layout=compact" alt="jubstaaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubstaaa&show_icons=true&locale=en" alt="jubstaaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubstaaa&" alt="jubstaaa" /></p>
+
