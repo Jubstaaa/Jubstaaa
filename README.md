@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React.js, C# and Unity.
 
-- 💻 My personel website [winniesoft.com](https://winniesoft.com)
+- 💻 My group website [winniesoft.com](https://winniesoft.com)
 
 - 📫 How to reach me **ilkerbalcilartr@gmail.com**
 
