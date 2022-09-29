@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubstaaa" alt="jubstaaa" /></a> </p>
 
-- 🌱 I’m currently learning React.js, C# and Unity.
+- 🌱 I’m currently learning Next.js.
 
 - 💻 My group website [winniesoft.com](https://winniesoft.com)
 
@@ -93,6 +93,14 @@
       height="40"
     />
   </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nextjs-original-wordmark.svg"
+      alt="next"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -132,22 +140,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
       width="40"
       height="40"
     />
