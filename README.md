@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubstaaa" alt="jubstaaa" /></a> </p>
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Typescript.
 
 - 💻 My group website [winniesoft.com](https://winniesoft.com)
 
@@ -109,16 +109,6 @@
       height="40"
     />
   </a>
-
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -135,11 +125,10 @@
       height="40"
     />
   </a>
-
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
+      src="https://raw.githubusercontent.com/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
