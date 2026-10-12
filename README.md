@@ -8,8 +8,6 @@
 
 <a href="https://ilkerbalcilar.com"><img src="https://img.shields.io/badge/ilkerbalcilar.com-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7aa2f7" alt="website" /></a>&nbsp;<a href="https://www.linkedin.com/in/ilker-balcilar/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="linkedin" /></a>&nbsp;<a href="https://www.npmjs.com/~jubstaa"><img src="https://img.shields.io/badge/npm-1a1b26?style=for-the-badge&logo=npm&logoColor=7aa2f7" alt="npm" /></a>&nbsp;<a href="https://discordapp.com/users/225769737655681024"><img src="https://img.shields.io/badge/Discord-1a1b26?style=for-the-badge&logo=discord&logoColor=7aa2f7" alt="discord" /></a>&nbsp;<a href="mailto:ilkerbalcilartr@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="mail" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Jubstaaa&style=flat-square&color=7aa2f7&label=visitors" alt="visitors" />
-
 </div>
 
 <br />
