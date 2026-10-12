@@ -36,10 +36,10 @@ desktop  = ["Tauri", "Rust"]
 editor   = "Zed"
 
 [side_quests]
-rift     = "Challenger · jungle"
-building = "pixel idle games in Godot"
-watching = ["Evangelion", "Edgerunners", "AoT"]
-playing  = ["Cyberpunk 2077", "RE4", "Split Fiction"]
+rift     = "Challenger · jungle main"
+anime    = ["Evangelion", "Death Note", "Code Geass"]
+games    = ["Cyberpunk 2077", "Resident Evil", "Prince of Persia"]
+console  = "PS3 era CoD veteran"
 ```
 
 </td>
@@ -52,8 +52,7 @@ Most of my side projects start the same way. I notice a gap in something I use e
 **Currently**
 - 🏢 Software Engineer at **Macellan SuperApp**
 - 🎓 BSc Software Engineering, İstanbul Nişantaşı
-- 🔭 Building **Prosbase v2**, a League esports platform
-- 🕹️ Prototyping idle games in **Godot** and a Chrome extension RPG
+- 🧰 Maintaining **hono-telescope**, **tailwind-hitslop** and **standup-mr** on npm
 
 </td>
 </tr>
@@ -98,7 +97,6 @@ Most of my side projects start the same way. I notice a gap in something I use e
 
 | | Project | |
 | :-- | :-- | :-- |
-| 🏆 | [**Prosbase**](https://prosbase.com) | Pro player leaderboards, live games, pro builds, teams and leagues in one place. Bun + Turborepo monorepo, PostgreSQL + MongoDB, BullMQ workers |
 | 📺 | [**StatBox**](https://statbox.live) | Free OBS browser-source widget: live rank, recent games and session stats for streamers |
 | ⚙️ | [**LoL Config Editor**](https://github.com/Jubstaaa/lol-config-editor) | Edit League settings without launching the game, save profiles, swap Riot accounts in one click. Tauri + Rust |
 | 🎬 | [**Daily Lore Bot**](https://www.instagram.com/daily.league.lore/) | Picks a champion, pulls the lore, narrates it with AI and posts a video to Instagram every day, hands-free |
