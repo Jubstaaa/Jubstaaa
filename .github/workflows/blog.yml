@@ -17,6 +17,6 @@ jobs:
               with:
                   feed_list: 'https://ilkerbalcilar.com/feed.xml'
                   max_post_count: 5
-                  template: '- [$title]($url) <sub>$date</sub>$newline'
+                  template: '$newline- [$title]($url) <sub>$date</sub>'
                   date_format: 'mmm d, yyyy'
                   commit_message: 'chore: update blog posts'
