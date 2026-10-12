@@ -16,10 +16,6 @@
 
 ## `> cat player.toml`
 
-<table border="0">
-<tr>
-<td width="52%" valign="top">
-
 ```toml
 [player]
 name     = "İlker Balcılar"
@@ -42,9 +38,6 @@ games    = ["Cyberpunk 2077", "Resident Evil", "Prince of Persia"]
 console  = "PS3 era CoD veteran"
 ```
 
-</td>
-<td width="48%" valign="top">
-
 I build things from UI to infra: the frontend, the API, the data model, and the box it runs on. TypeScript end-to-end, Rust when a desktop app needs to feel native.
 
 Most of my side projects start the same way. I notice a gap in something I use every day, usually League of Legends, a dev tool, or my own iPhone home screen, and I open the editor instead of shrugging it off.
@@ -54,19 +47,15 @@ Most of my side projects start the same way. I notice a gap in something I use e
 - 🎓 BSc Software Engineering, İstanbul Nişantaşı
 - 🧰 Maintaining **hono-telescope**, **tailwind-hitslop** and **standup-mr** on npm
 
-</td>
-</tr>
-</table>
-
 ## `> ls ~/open-source`
 
 <div align="center">
-  <a href="https://github.com/Jubstaaa/hono-telescope"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=hono-telescope&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="hono-telescope" /></a>
-  <a href="https://github.com/Jubstaaa/tailwind-hitslop"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=tailwind-hitslop&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="tailwind-hitslop" /></a>
-  <a href="https://github.com/Jubstaaa/iconstate"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=iconstate&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="iconstate" /></a>
-  <a href="https://github.com/Jubstaaa/lol-config-editor"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=lol-config-editor&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="lol-config-editor" /></a>
-  <a href="https://github.com/Jubstaaa/standup-mr"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=standup-mr&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="standup-mr" /></a>
-  <a href="https://github.com/Jubstaaa/auto-watch"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=auto-watch&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="auto-watch" /></a>
+  <a href="https://github.com/Jubstaaa/hono-telescope"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=hono-telescope&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="hono-telescope" /></a>
+  <a href="https://github.com/Jubstaaa/tailwind-hitslop"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=tailwind-hitslop&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="tailwind-hitslop" /></a>
+  <a href="https://github.com/Jubstaaa/iconstate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=iconstate&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="iconstate" /></a>
+  <a href="https://github.com/Jubstaaa/lol-config-editor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=lol-config-editor&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="lol-config-editor" /></a>
+  <a href="https://github.com/Jubstaaa/standup-mr"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=standup-mr&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="standup-mr" /></a>
+  <a href="https://github.com/Jubstaaa/auto-watch"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=auto-watch&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="auto-watch" /></a>
 </div>
 
 <br />
