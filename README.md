@@ -27,6 +27,7 @@ main     = "TypeScript"
 frontend = ["Next.js", "React Native", "Tailwind"]
 backend  = ["Hono", "Bun", "Cloudflare Workers"]
 desktop  = ["Tauri", "Rust"]
+infra    = ["DigitalOcean", "Docker", "Caddy", "GitHub Actions"]
 editor   = "Zed"
 
 [side_quests]
