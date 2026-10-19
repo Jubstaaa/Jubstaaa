@@ -31,9 +31,7 @@ editor   = "Zed"
 
 [side_quests]
 rift     = "Challenger · jungle main"
-anime    = ["Evangelion", "Death Note", "Code Geass"]
-games    = ["Cyberpunk 2077", "Resident Evil", "Prince of Persia"]
-console  = "PS3 era CoD veteran"
+hobbies  = ["anime", "story-driven games", "console FPS"]
 ```
 
 I build things from UI to infra: the frontend, the API, the data model, and the box it runs on. TypeScript end-to-end, Rust when a desktop app needs to feel native.
