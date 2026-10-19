@@ -31,7 +31,7 @@ editor   = "Zed"
 
 [side_quests]
 rift     = "Challenger · jungle main"
-hobbies  = ["anime", "story-driven games", "console FPS"]
+hobbies  = ["anime", "story-driven games"]
 ```
 
 I build things from UI to infra: the frontend, the API, the data model, and the box it runs on. TypeScript end-to-end, Rust when a desktop app needs to feel native.
