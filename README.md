@@ -122,11 +122,11 @@ Most of my side projects start the same way. I notice a gap in something I use e
 ## `> tail -n 5 ~/blog`
 
 <!-- BLOG-POST-LIST:START -->
+- [A Dozen Apps on One Small Droplet: My Self-Hosting Setup](https://ilkerbalcilar.com/blog/a-dozen-apps-on-one-small-droplet) <sub>Oct 19, 2026</sub>
 - [Why I Keep Building League of Legends Tools](https://ilkerbalcilar.com/blog/why-i-keep-building-league-of-legends-tools) <sub>Jul 10, 2026</sub>
 - [Hit-Slop for the Web: Bigger Tap Targets in Tailwind CSS](https://ilkerbalcilar.com/blog/hit-slop-for-the-web-bigger-tap-targets-in-tailwind) <sub>Jun 7, 2026</sub>
 - [How to Debug Hono Applications with Telescope — Laravel Telescope for Bun &amp; Node.js](https://ilkerbalcilar.com/blog/how-to-debug-hono-applications-with-hono-telescope) <sub>Oct 31, 2025</sub>
-- [Anime Series I&#39;ve Enjoyed Over the Years](https://ilkerbalcilar.com/blog/anime-series-i-have-enjoyed-over-the-years) <sub>Apr 21, 2025</sub>
-- [My Current Tech Stack](https://ilkerbalcilar.com/blog/my-current-tech-stack) <sub>Apr 19, 2025</sub><!-- BLOG-POST-LIST:END -->
+- [Anime Series I&#39;ve Enjoyed Over the Years](https://ilkerbalcilar.com/blog/anime-series-i-have-enjoyed-over-the-years) <sub>Apr 21, 2025</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
