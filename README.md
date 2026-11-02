@@ -1,18 +1,108 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-light.svg" width="100%" alt="~/ilker-balcilar — software engineer · istanbul" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=220&section=header&text=%C4%B0lker%20Balc%C4%B1lar&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=software%20engineer%20%C2%B7%20istanbul&descAlignY=58&descSize=20&descColor=7dcfff" width="100%" alt="İlker Balcılar" />
-
-<a href="https://github.com/Jubstaaa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&height=48&lines=full-stack+engineer+%40macellan;ships+web+%C2%B7+mobile+%C2%B7+desktop+%C2%B7+open+source;Challenger+jungle+main+who+builds+League+tools;TypeScript+end-to-end%2C+Rust+when+it+matters;still+in+the+jungle+at+2am" alt="typing" /></a>
+<p>
+  <a href="https://ilkerbalcilar.com"><code>./website</code></a>&nbsp;
+  <a href="https://ilkerbalcilar.com/blog"><code>./blog</code></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ilker-balcilar/"><code>./linkedin</code></a>&nbsp;
+  <a href="https://www.npmjs.com/~jubstaa"><code>./npm</code></a>&nbsp;
+  <a href="https://discordapp.com/users/225769737655681024"><code>./discord</code></a>&nbsp;
+  <a href="mailto:ilkerbalcilartr@gmail.com"><code>./mail</code></a>
+</p>
 
 <br />
 
-<a href="https://ilkerbalcilar.com"><img src="https://img.shields.io/badge/ilkerbalcilar.com-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7aa2f7" alt="website" /></a>&nbsp;<a href="https://www.linkedin.com/in/ilker-balcilar/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="linkedin" /></a>&nbsp;<a href="https://www.npmjs.com/~jubstaa"><img src="https://img.shields.io/badge/npm-1a1b26?style=for-the-badge&logo=npm&logoColor=7aa2f7" alt="npm" /></a>&nbsp;<a href="https://discordapp.com/users/225769737655681024"><img src="https://img.shields.io/badge/Discord-1a1b26?style=for-the-badge&logo=discord&logoColor=7aa2f7" alt="discord" /></a>&nbsp;<a href="mailto:ilkerbalcilartr@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="mail" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.svg" />
+  <img src="./assets/section-about-light.svg" width="100%" alt="cat about.md" />
+</picture>
 
-</div>
+I build things from UI to infra: the frontend, the API, the data model, and the box it runs on. TypeScript end-to-end, Rust when a desktop app needs to feel native.
+
+Most of my side projects start the same way. I notice a gap in something I use every day, usually League of Legends, a dev tool, or my own iPhone home screen, and I open the editor instead of shrugging it off.
+
+<sub>CURRENTLY</sub>
+
+→ software engineer at **Macellan SuperApp**<br />
+→ bsc software engineering, İstanbul Nişantaşı<br />
+→ maintaining **hono-telescope**, **tailwind-hitslop** and **standup-mr** on npm
 
 <br />
 
-## `> cat player.toml`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-open-source-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-open-source-light.svg" />
+  <img src="./assets/section-open-source-light.svg" width="100%" alt="ls ~/open-source" />
+</picture>
+
+<sub>DEVELOPER TOOL</sub><br />
+**[hono-telescope](https://github.com/Jubstaaa/hono-telescope)** <sub>[npm ↗](https://www.npmjs.com/package/hono-telescope)</sub><br />
+Laravel Telescope-style debugger for Hono, plus an MCP server so your AI agent can read live requests, exceptions and queries.<br />
+<sub>`TypeScript` `Hono` `Bun` `MCP`</sub>
+
+<sub>OPEN SOURCE LIBRARY</sub><br />
+**[tailwind-hitslop](https://github.com/Jubstaaa/tailwind-hitslop)** <sub>[npm ↗](https://www.npmjs.com/package/tailwind-hitslop)</sub><br />
+Invisible expanded tap targets for Tailwind v4, like React Native `hitSlop`. Pure CSS, zero JS.<br />
+<sub>`Tailwind CSS` `CSS` `TypeScript`</sub>
+
+<sub>DEVELOPER TOOL</sub><br />
+**[standup-mr](https://github.com/Jubstaaa/standup-mr)** <sub>[npm ↗](https://www.npmjs.com/package/standup-mr)</sub><br />
+Standup notes from merge request state, not commit logs. CLI + hosted OAuth MCP for GitLab and GitHub.<br />
+<sub>`TypeScript` `MCP` `OAuth 2.1` `SQLite`</sub>
+
+<sub>DESKTOP APP</sub><br />
+**[IconState](https://github.com/Jubstaaa/iconstate)** <sub>[release ↗](https://github.com/Jubstaaa/iconstate/releases/latest)</sub><br />
+Rearrange your iPhone home screen from your Mac. Drag icons and folders with a mouse, over USB.<br />
+<sub>`Tauri` `Rust` `React`</sub>
+
+<sub>GITHUB ACTION</sub><br />
+**[auto-watch](https://github.com/Jubstaaa/auto-watch)** <sub>[marketplace ↗](https://github.com/marketplace/actions/auto-watch-repositories)</sub><br />
+Watches every repo you create, the way GitHub used to before 2025.<br />
+<sub>`TypeScript` `GitHub Actions`</sub>
+
+<sub>BROWSER EXTENSION</sub><br />
+**[FontMapper](https://github.com/Jubstaaa/font-mapper)** <sub>[chrome web store ↗](https://chromewebstore.google.com/detail/gfdmhpidmomcbghfoejkcpjdklbdcdnn)</sub><br />
+Swaps any site's fonts for the ones installed on your machine, per domain.<br />
+<sub>`React` `TypeScript` `Chrome MV3`</sub>
+
+<sub>NEWSLETTER</sub><br />
+**[brief](https://github.com/Jubstaaa/brief)** <sub>[brief.ilkerbalcilar.com ↗](https://brief.ilkerbalcilar.com)</sub><br />
+Weekly digest of what changed in React and Next.js, read from the commits, not the release notes.<br />
+<sub>`Next.js` `Bun` `GitHub Actions`</sub>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-rift-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-rift-light.svg" />
+  <img src="./assets/section-rift-light.svg" width="100%" alt="ls ~/built-for-the-rift" />
+</picture>
+
+> I hit Challenger as a jungle main. At that level you stop seeing the game and start seeing the gaps. [Why I keep building League tools ↗](https://ilkerbalcilar.com/blog/why-i-keep-building-league-of-legends-tools)
+
+<sub>STREAMING TOOL</sub><br />
+**[StatBox](https://statbox.live)** — free OBS browser-source widget: live rank, recent games and session stats for streamers.
+
+<sub>DESKTOP APP</sub><br />
+**[LoL Config Editor](https://github.com/Jubstaaa/lol-config-editor)** — edit League settings without launching the game, save profiles, swap Riot accounts in one click.
+
+<sub>AUTOMATION</sub><br />
+**[Daily Lore Bot](https://www.instagram.com/daily.league.lore/)** — picks a champion, pulls the lore, narrates it with AI and posts a video to Instagram every day.
+
+<sub>WEB + MOBILE GAME</sub><br />
+**[Pixel Guess](https://pixelguessgame.com)** — guess the champion as it un-pixelates. One monorepo, global leaderboard.
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-loadout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-loadout-light.svg" />
+  <img src="./assets/section-loadout-light.svg" width="100%" alt="cat loadout.toml" />
+</picture>
 
 ```toml
 [player]
@@ -20,106 +110,43 @@ name     = "İlker Balcılar"
 class    = "full-stack engineer"
 guild    = "@macellan"
 base     = "Istanbul, TR"
-status   = "shipping"
+rift     = "Challenger · jungle main"
 
 [loadout]
 main     = "TypeScript"
-frontend = ["Next.js", "React Native", "Tailwind"]
-backend  = ["Hono", "Bun", "Cloudflare Workers"]
-desktop  = ["Tauri", "Rust"]
-infra    = ["DigitalOcean", "Docker", "Caddy", "GitHub Actions"]
-editor   = "Zed"
-
-[side_quests]
-rift     = "Challenger · jungle main"
-hobbies  = ["anime", "story-driven games"]
+frontend = ["Next.js", "React", "React Native", "Expo", "Tailwind"]
+backend  = ["Hono", "Bun", "Node.js", "Payload CMS", "Prisma"]
+desktop  = ["Tauri", "Rust", "Electron"]
+infra    = ["Cloudflare Workers", "DigitalOcean", "Docker", "Caddy", "GitHub Actions"]
+data     = ["PostgreSQL", "SQLite", "MongoDB", "Redis"]
+tools    = ["Zed", "Claude Code", "Figma"]
 ```
 
-I build things from UI to infra: the frontend, the API, the data model, and the box it runs on. TypeScript end-to-end, Rust when a desktop app needs to feel native.
-
-Most of my side projects start the same way. I notice a gap in something I use every day, usually League of Legends, a dev tool, or my own iPhone home screen, and I open the editor instead of shrugging it off.
-
-**Currently**
-- 🏢 Software Engineer at **Macellan SuperApp**
-- 🎓 BSc Software Engineering, İstanbul Nişantaşı
-- 🧰 Maintaining **hono-telescope**, **tailwind-hitslop** and **standup-mr** on npm
-
-## `> ls ~/open-source`
-
-<div align="center">
-  <a href="https://github.com/Jubstaaa/hono-telescope"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=hono-telescope&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="hono-telescope" /></a>
-  <a href="https://github.com/Jubstaaa/tailwind-hitslop"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=tailwind-hitslop&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="tailwind-hitslop" /></a>
-  <a href="https://github.com/Jubstaaa/iconstate"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=iconstate&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="iconstate" /></a>
-  <a href="https://github.com/Jubstaaa/lol-config-editor"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=lol-config-editor&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="lol-config-editor" /></a>
-  <a href="https://github.com/Jubstaaa/standup-mr"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=standup-mr&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="standup-mr" /></a>
-  <a href="https://github.com/Jubstaaa/auto-watch"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=auto-watch&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="auto-watch" /></a>
-</div>
-
 <br />
 
-| Project | What it is | Live |
-| :-- | :-- | :-- |
-| [**hono-telescope**](https://github.com/Jubstaaa/hono-telescope) | Laravel Telescope-style debugger for Hono, plus an MCP server so your AI agent can read live requests, exceptions and queries | [![npm](https://img.shields.io/npm/dm/hono-telescope?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=npm&label=)](https://www.npmjs.com/package/hono-telescope) |
-| [**tailwind-hitslop**](https://github.com/Jubstaaa/tailwind-hitslop) | Invisible expanded tap targets for Tailwind v4, like React Native `hitSlop`. Pure CSS, zero JS | [![npm](https://img.shields.io/npm/dm/tailwind-hitslop?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=npm&label=)](https://www.npmjs.com/package/tailwind-hitslop) |
-| [**standup-mr**](https://github.com/Jubstaaa/standup-mr) | Standup notes from merge request state, not commit logs. CLI + hosted OAuth MCP for GitLab and GitHub | [![npm](https://img.shields.io/npm/dm/standup-mr?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=npm&label=)](https://www.npmjs.com/package/standup-mr) |
-| [**IconState**](https://github.com/Jubstaaa/iconstate) | Rearrange your iPhone home screen from your Mac. Drag icons and folders with a mouse, over USB. Rust + Tauri | [![release](https://img.shields.io/github/v/release/Jubstaaa/iconstate?style=flat-square&color=bb9af7&labelColor=1a1b26&label=)](https://github.com/Jubstaaa/iconstate/releases/latest) |
-| [**auto-watch**](https://github.com/Jubstaaa/auto-watch) | GitHub Action that watches every repo you create, the way GitHub used to before 2025 | [![marketplace](https://img.shields.io/badge/Marketplace-1a1b26?style=flat-square&logo=githubactions&logoColor=7aa2f7)](https://github.com/marketplace/actions/auto-watch-repositories) |
-| [**FontMapper**](https://github.com/Jubstaaa/font-mapper) | Chrome extension that swaps any site's fonts for the ones installed on your machine, per domain | [![users](https://img.shields.io/chrome-web-store/users/gfdmhpidmomcbghfoejkcpjdklbdcdnn?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=googlechrome&logoColor=7aa2f7&label=)](https://chromewebstore.google.com/detail/gfdmhpidmomcbghfoejkcpjdklbdcdnn) |
-| [**brief**](https://github.com/Jubstaaa/brief) | Weekly digest of what changed in React and Next.js, read from the commits, not the release notes | [brief.ilkerbalcilar.com](https://brief.ilkerbalcilar.com) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-stats-light.svg" />
+  <img src="./assets/section-stats-light.svg" width="100%" alt="git log --stat" />
+</picture>
 
-## `> ls ~/built-for-the-rift`
-
-> I hit Challenger as a jungle main. At that level you stop seeing the game and start seeing the gaps. [Why I keep building League tools →](https://ilkerbalcilar.com/blog/why-i-keep-building-league-of-legends-tools)
-
-| | Project | |
-| :-- | :-- | :-- |
-| 📺 | [**StatBox**](https://statbox.live) | Free OBS browser-source widget: live rank, recent games and session stats for streamers |
-| ⚙️ | [**LoL Config Editor**](https://github.com/Jubstaaa/lol-config-editor) | Edit League settings without launching the game, save profiles, swap Riot accounts in one click. Tauri + Rust |
-| 🎬 | [**Daily Lore Bot**](https://www.instagram.com/daily.league.lore/) | Picks a champion, pulls the lore, narrates it with AI and posts a video to Instagram every day, hands-free |
-| 🧩 | [**Pixel Guess**](https://pixelguessgame.com) | Guess the champion as it un-pixelates. Web + mobile from one monorepo, global leaderboard |
-
-## `> cat loadout.txt`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,rust,py,cs&theme=dark" alt="languages" />
-<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,nodejs,bun,prisma&theme=dark" alt="web" />
-<br />
-<img src="https://skillicons.dev/icons?i=tauri,electron,unity,godot,figma&theme=dark" alt="desktop and games" />
-<br />
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,postgres,mongodb,mysql,docker,nginx,githubactions&theme=dark" alt="infra" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Hono-1a1b26?style=flat-square&logo=hono&logoColor=e36002" alt="hono" />
-<img src="https://img.shields.io/badge/Expo-1a1b26?style=flat-square&logo=expo&logoColor=c0caf5" alt="expo" />
-<img src="https://img.shields.io/badge/Payload%20CMS-1a1b26?style=flat-square&logo=payloadcms&logoColor=c0caf5" alt="payload" />
-<img src="https://img.shields.io/badge/Zed-1a1b26?style=flat-square&logo=zedindustries&logoColor=7aa2f7" alt="zed" />
-<img src="https://img.shields.io/badge/Claude%20Code-1a1b26?style=flat-square&logo=anthropic&logoColor=d4a27f" alt="claude code" />
-
-</div>
-
-## `> git log --stat`
-
-<div align="center">
-
-<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-stats-extended.vercel.app/api?username=Jubstaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" /></a>
-<a href="https://github.com/Jubstaaa"><img height="180" src="https://streak-stats.demolab.com?user=Jubstaaa&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" /></a>
-
-<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jubstaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=8&hide=html,css,scss" alt="top languages" /></a>
-
-<br /><br />
+<p>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Jubstaaa&show_icons=true&theme=transparent&hide_border=true&title_color=4ebcff&icon_color=4ebcff&text_color=7d8792&include_all_commits=true&count_private=true&rank_icon=github&hide_rank=true" alt="stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jubstaaa&layout=compact&theme=transparent&hide_border=true&title_color=4ebcff&icon_color=4ebcff&text_color=7d8792&langs_count=8&hide=html,css,scss" alt="top languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jubstaaa/Jubstaaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jubstaaa/Jubstaaa/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Jubstaaa/Jubstaaa/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jubstaaa/Jubstaaa/output/github-snake.svg" alt="contribution snake" width="100%" />
 </picture>
 
-</div>
+<br />
 
-## `> tail -n 5 ~/blog`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-blog-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-blog-light.svg" />
+  <img src="./assets/section-blog-light.svg" width="100%" alt="tail -n 5 ~/blog" />
+</picture>
 
 <!-- BLOG-POST-LIST:START -->
 - [Where X Keeps Your Decrypted DMs &lpar;and How I Built an Exporter Around It&rpar;](https://ilkerbalcilar.com/blog/where-x-keeps-your-decrypted-dms) <sub>Oct 26, 2026</sub>
@@ -128,16 +155,6 @@ Most of my side projects start the same way. I notice a gap in something I use e
 - [Hit-Slop for the Web: Bigger Tap Targets in Tailwind CSS](https://ilkerbalcilar.com/blog/hit-slop-for-the-web-bigger-tap-targets-in-tailwind) <sub>Jun 7, 2026</sub>
 - [How to Debug Hono Applications with Telescope — Laravel Telescope for Bun &amp; Node.js](https://ilkerbalcilar.com/blog/how-to-debug-hono-applications-with-hono-telescope) <sub>Oct 31, 2025</sub><!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-
-<sub>more at <a href="https://ilkerbalcilar.com/blog">ilkerbalcilar.com/blog</a></sub>
-
-</div>
-
 <br />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer" width="100%" alt="" />
-
-</div>
+<sub>ilker balcilar · istanbul · <a href="https://ilkerbalcilar.com">ilkerbalcilar.com ↗</a></sub>
