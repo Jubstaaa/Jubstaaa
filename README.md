@@ -47,12 +47,12 @@ Most of my side projects start the same way. I notice a gap in something I use e
 ## `> ls ~/open-source`
 
 <div align="center">
-  <a href="https://github.com/Jubstaaa/hono-telescope"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=hono-telescope&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="hono-telescope" /></a>
-  <a href="https://github.com/Jubstaaa/tailwind-hitslop"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=tailwind-hitslop&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="tailwind-hitslop" /></a>
-  <a href="https://github.com/Jubstaaa/iconstate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=iconstate&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="iconstate" /></a>
-  <a href="https://github.com/Jubstaaa/lol-config-editor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=lol-config-editor&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="lol-config-editor" /></a>
-  <a href="https://github.com/Jubstaaa/standup-mr"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=standup-mr&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="standup-mr" /></a>
-  <a href="https://github.com/Jubstaaa/auto-watch"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubstaaa&repo=auto-watch&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="auto-watch" /></a>
+  <a href="https://github.com/Jubstaaa/hono-telescope"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=hono-telescope&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="hono-telescope" /></a>
+  <a href="https://github.com/Jubstaaa/tailwind-hitslop"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=tailwind-hitslop&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="tailwind-hitslop" /></a>
+  <a href="https://github.com/Jubstaaa/iconstate"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=iconstate&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="iconstate" /></a>
+  <a href="https://github.com/Jubstaaa/lol-config-editor"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=lol-config-editor&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="lol-config-editor" /></a>
+  <a href="https://github.com/Jubstaaa/standup-mr"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=standup-mr&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="standup-mr" /></a>
+  <a href="https://github.com/Jubstaaa/auto-watch"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Jubstaaa&repo=auto-watch&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&description_lines_count=3" alt="auto-watch" /></a>
 </div>
 
 <br />
@@ -104,10 +104,10 @@ Most of my side projects start the same way. I notice a gap in something I use e
 
 <div align="center">
 
-<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Jubstaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" /></a>
+<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-stats-extended.vercel.app/api?username=Jubstaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" /></a>
 <a href="https://github.com/Jubstaaa"><img height="180" src="https://streak-stats.demolab.com?user=Jubstaaa&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" /></a>
 
-<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubstaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=8&hide=html,css,scss" alt="top languages" /></a>
+<a href="https://github.com/Jubstaaa"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jubstaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&langs_count=8&hide=html,css,scss" alt="top languages" /></a>
 
 <br /><br />
 
