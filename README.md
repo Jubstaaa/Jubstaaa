@@ -53,6 +53,7 @@ Most of my side projects start the same way. I notice a gap in something I use e
 
 | | Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
 | :-- | :-- | :-- |
+| 🏆 | [**Prosbase**](https://prosbase.com) | Tracks 22k pro players and 1.2M+ matches: leaderboards, probuilds, live games and esports data |
 | 📺 | [**StatBox**](https://statbox.live) | Free OBS widget: live rank, recent games and session stats for streamers |
 | ⚙️ | [**LoL Config Editor**](https://github.com/Jubstaaa/lol-config-editor) | Edit League settings without launching the game, swap Riot accounts in one click |
 | 🎬 | [**Daily Lore Bot**](https://www.instagram.com/daily.league.lore/) | Picks a champion, narrates the lore with AI and posts a video to Instagram every day |
